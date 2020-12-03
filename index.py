@@ -5,7 +5,7 @@ from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 
 import sys
-sys.path.append('C:/Users/Bobby/Desktop/Learning/Projects/Fake Jobs/Dashboard')
+sys.path.append('YOUR DIRECTORY')
   
 # Connect to main app.py file
 from app import app # Importing app from app.py
